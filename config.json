@@ -1,0 +1,11 @@
+{
+  "shop": "Corner Store",
+  "currency": "INR",
+  "low_stock_threshold": 3,
+  "show_out_of_stock": false,
+  "items": [
+    { "name": "notebook", "count": 12 },
+    { "name": "pencil",   "count": 0 },
+    { "name": "eraser",   "count": 4 }
+  ]
+}
